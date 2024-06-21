@@ -43,7 +43,9 @@ No campo 'DB_PASSWORD=' digite sua senha. <br><br>
 ## Testes: 
 Iniciando o teste:
 
+![image](https://github.com/stheryalves/testes_de_integracao_ts/assets/134507985/d737005a-56d6-4b27-9af1-00fdb556dbb1)
 
+![image](https://github.com/stheryalves/testes_de_integracao_ts/assets/134507985/81c9c06b-a790-473a-a33a-5b5953b8568f)
 
 
 <!--Link da API: [API Biblioteca Online](https://biblioteca-online-api-back.vercel.app/livros) <br>-->
